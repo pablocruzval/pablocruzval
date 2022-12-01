@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😁, I'm Pablo</h1>
 <h3 align="center">A self taught student</h3>
 
-- 📒I’m currently learning **Javascript**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+- 📒I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
